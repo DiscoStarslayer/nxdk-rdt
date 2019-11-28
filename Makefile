@@ -1,4 +1,4 @@
-XBE_TITLE = AAAAAAA
+XBE_TITLE = nxdk-rdt
 GEN_XISO = $(XBE_TITLE).iso
 SRCS = $(CURDIR)/main.c $(CURDIR)/net.c $(CURDIR)/dbgd.c
 NXDK_NET = y
